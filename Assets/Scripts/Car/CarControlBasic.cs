@@ -76,7 +76,7 @@ public class CarControlBasic : MonoBehaviour
         {
             if (x < 2f)
             {
-                x = x + 1.25f;
+                x = x + 1.24f;
                 dirRight = true;
             }
         }

@@ -19,7 +19,7 @@ public class Levels : MonoBehaviour
 
     void LevelText()
     {
-        level_Text.text = "LEVEL" + level.ToString();
+        level_Text.text = "LEVEL " + level.ToString();
     }
     public void LevelUp()
     {
